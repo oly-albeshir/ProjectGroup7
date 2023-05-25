@@ -5,15 +5,15 @@ let questions = [
   question: "Who is making the web standards?",
   answer: "World Wide Web Consortium",
   options: [
-    "Google",
-    "Mozilla",
-    "Microsoft",
-    "World Wide Web Consortium"
+    "Google.",
+    "Mozilla.",
+    "Microsoft.",
+    "World Wide Web Consortium."
   ]
 },
   {
   numb: 2,
-  question: "Block elements are normally displayed without starting a new line.?",
+  question: "Block elements are normally displayed without starting a new line?",
   answer: "True",
   options: [
     "True",
@@ -46,13 +46,13 @@ let questions = [
 },
   {
   numb: 5,
-  question: "Which input type defines a slider control?",
+  question: "Which input type defines a slider control ?",
   answer: "range",
   options: [
-    "search",
-    "slider",
-    "controls",
-    "range"
+    "search.",
+    "slider.",
+    "controls.",
+    "range."
   ]
 },
 {
